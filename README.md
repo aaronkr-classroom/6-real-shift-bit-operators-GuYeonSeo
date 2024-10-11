@@ -1,2 +1,2 @@
-# 1-hello-c
+# 6-shift-bit
 2주차 C 실습
